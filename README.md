@@ -62,6 +62,4 @@ Core/
 * PWM
 * GPIO
 
-## Author
 
-**Nitin Ghugarkar**
